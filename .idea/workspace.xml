@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ac11b9d1-55ef-4499-aea5-e4f0fda718da" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Einkaufsliste/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Errate die Zahl/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -95,7 +95,7 @@
       <option name="presentableId" value="Default" />
       <updated>1776796342233</updated>
       <workItem from="1776796343258" duration="1929000" />
-      <workItem from="1776802795634" duration="1856000" />
+      <workItem from="1776802795634" duration="3226000" />
     </task>
     <servers />
   </component>
@@ -103,6 +103,6 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PythonProject$main.coverage" NAME="main Coverage Results" MODIFIED="1776804501409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Einkaufsliste" />
+    <SUITE FILE_PATH="coverage/PythonProject$main.coverage" NAME="main Coverage Results" MODIFIED="1776805976016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Errate die Zahl" />
   </component>
 </project>
