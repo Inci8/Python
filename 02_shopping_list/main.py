@@ -22,11 +22,11 @@ while True:
 
     # anzeigen
     elif aktion == "anzeigen":
-        print("Deine Einkaufsliste:")
+        print("Deine 02_shopping_list:")
         print(einkaufsliste)
     # beenden
     elif aktion == "beenden":
-        print("Einkaufsliste beendet.")
+        print("02_shopping_list beendet.")
         break
 
     else:
